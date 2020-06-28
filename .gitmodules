@@ -1,0 +1,3 @@
+[submodule "tools/oppo_ozip_decrypt"]
+	path = tools/oppo_ozip_decrypt
+	url = https://github.com/bkerler/oppo_ozip_decrypt
